@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/dapetoo/udacity-cloud-devops-kubernetes/tree/main)
+[![CircleCI](https://circleci.com/github/dapetoo/udacity-cloud-devops-kubernetes.svg?style=svg)](https://circleci.com/github/dapetoo/udacity-cloud-devops-kubernetes)
 
 ## Project Overview
 
