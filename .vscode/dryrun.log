@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/dapetoo/Learning/udacity/udacity-cloud-devops/project-ml-microservice-kubernetes'
+# Create python virtualenv & source it
+# source ~/.devops/bin/activate
+python3 -m venv ~/.devops
+make: Leaving directory '/home/dapetoo/Learning/udacity/udacity-cloud-devops/project-ml-microservice-kubernetes'
+ 
