@@ -1,11 +1,11 @@
 
 #!/usr/bin/env bash
-# This file tags and uploads an image to Docker Hub
+# This file tags and uploads an image to Docker Hub to my repository
 
 # Assumes that an image is built via `run_docker.sh`
 
 # Step 1:
-# Create dockerpath
+# Create dockerpath 
 dockerpath=dapetoo/flaskapp
 
 # Step 2:  
